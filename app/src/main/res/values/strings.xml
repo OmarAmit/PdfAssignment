@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Udayy Test</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_otp">Enter OTP : 0000</string>
+    <string name="login">Login</string>
+    <string name="enter_url"> Enter url</string>
+    <string name="download">Download</string>
+    <string name="downloading">Downloading...</string>
+    <string name="download_url">https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="otp">OTP</string>
+    <string name="submit">Submit</string>
+
+</resources>
