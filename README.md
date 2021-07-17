@@ -11,7 +11,7 @@ It download the files.
 
 
 ### Libraries:  
-* [lifecycle]:(https://developer.android.com/jetpack/androidx/releases/lifecycle)
+* [lifecycle](https://developer.android.com/jetpack/androidx/releases/lifecycle)
 * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 * [Material Design](https://developer.android.com/guide/topics/ui/look-and-feel)
 * UI: CardView, ConstraintLayout.
